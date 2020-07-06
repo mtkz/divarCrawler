@@ -1,0 +1,2 @@
+
+CITIES = ['tehran' , 'arak' , 'qom']
